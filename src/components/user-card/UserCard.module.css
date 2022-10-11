@@ -1,0 +1,13 @@
+.users {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 40rem;
+  margin: 2rem auto;
+}
+
+.users h2 {
+  text-transform: capitalize;
+  font-size: 1.15rem;
+  font-weight: normal;
+}
